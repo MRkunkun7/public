@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="zCENaoxiaoqi" />
+  <Id value="zCENaoxiaoqi" />
+  <Version value="v1.2.8.1110" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <DependedModules>
+		<DependedModule Id="Native"/>
+		<DependedModule Id="SandBoxCore"/>
+		<DependedModule Id="Sandbox"/>
+		<DependedModule Id="CustomBattle"/>
+		<DependedModule Id="StoryMode"/>
+		<DependedModule Id="zCaptivityEvents" DependentVersion="v1.2.8.1110" />
+		<DependedModule Id="Hom_SGJianKe"/>
+		<DependedModule Id="Hom_QinLiangYu" />
+		<DependedModule Id="Hom_DaQiao" />
+		<DependedModule Id="Hom_Beatrice" />
+		<DependedModule Id="Hom_Tsarist" />
+		<DependedModule Id="Cloud-RainRequiem_equipment" />
+  </DependedModules>
+  <SubModules>
+  </SubModules>
+	<Xmls>
+		<XmlNode>
+			<XmlName id="NPCCharacters" path="xinzengNPC_teshu"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>	
+	</Xmls>
+</Module>
