@@ -1,6 +1,6 @@
 This MOD is permanently free. Resale for profit from this MOD is prohibited, distribution of such content in countries or regions prohibited by law, and distribution of this MOD to users under 18 years old. All consequences resulting therefrom shall be borne by the downloader and distributor
 
-本MOD永久免费，禁止对本MOD进行转卖牟利、禁止在法律不允许此类内容的国家或地区传播此MOD、禁止向未满18周岁的用户传播此MOD，由此造成的一切后果由下载和传播者承担
+本MOD永久免费，禁止对本MOD进行转卖牟利、禁止在法律不允许此类内容的国家或地区下载和传播此MOD、禁止向未满18周岁的用户传播此MOD，由此造成的一切后果由下载和传播者承担
 
 このMODは永久に無料です。このMODによる営利目的の再販、法律で禁止されている国や地域でのコンテンツの配布、18歳未満のユーザーへの配布は禁止されています。その結果、すべての結果はダウンロード者および配布者が責任を負います
 
